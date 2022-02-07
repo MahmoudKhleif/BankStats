@@ -6,9 +6,10 @@ string CardNumber, BankCode, add;
 
 BankFactory BankFactory = new BankFactory();
 Info Info = new Info();
+Info.Informations();
 do
 {
-    Info.Informations();
+   
     Console.WriteLine("Enter your Card Number : ");
     CardNumber = Console.ReadLine();
     BankCode = CardNumber.Substring(0, 6);
