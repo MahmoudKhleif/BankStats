@@ -26,5 +26,13 @@ namespace BankStats1
                  "If it starts with(55555), then it belongs to BankE.\n");
 
         }
+        public void insert()
+        {
+            Console.WriteLine("************************\n");
+            Console.WriteLine("Welcome to Bank statistic Database\n\n"+
+                "Enter 1 to Add new User:\n"+"Enter 2 To Read Database\n"+"Enter 3 to Update item:\n"+
+                "Enter 4 to Delete item:\n\n");
+
+        }
     }
 }
