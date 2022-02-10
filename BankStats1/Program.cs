@@ -1,12 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using BankStats1;
+using ClassLibraryNuget;
 using BankStats1.Data;
 using BankStats1.Models;
 using System.Linq;
 
 string CardNumber, BankCode, add, number, number2;
-
-
 
 BankFactory BankFactory = new BankFactory();
 Crud crud = new Crud();

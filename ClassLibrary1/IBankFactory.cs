@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankStats1
+namespace ClassLibraryNuget
 {
-    public interface IBank
+    public interface IBankFactory
     {
-        string Withdraw();
+        IBank GetBank(string bankCode);
     }
 }
