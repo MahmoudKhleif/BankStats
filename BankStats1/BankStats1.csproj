@@ -5,6 +5,19 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <version>1.0.0.1</version>
+	  <Authors>MahmoudKhleif</Authors>
+	  <Company>Handelsakadimin</Company>
+	  <Description>
+		A bank statisc app
+	  </Description>
+	  <PackageProjectUrl>https://github.com/MahmoudKhleif/BankStats</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/MahmoudKhleif/BankStats</RepositoryUrl>
+	  <PackageTags>Switch;method;</PackageTags>
+	  <ApplicationIcon>bank.ico</ApplicationIcon>
+	  <PackageIcon>bank.png</PackageIcon>
+
+
   </PropertyGroup>
 
   <ItemGroup>

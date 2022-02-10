@@ -1,0 +1,1 @@
+﻿Icon from <a href="https://iconscout.com/icons/bank" target="_blank">Bank Icon</a> by <a href="https://iconscout.com/contributors/font-awesome" target="_blank">Font Awesome</a>
