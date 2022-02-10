@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BankStats1
-{
+{   
+   //do implementation on IBankFactory interface
     public class BankFactory:IBankFactory
     {
         public IBank GetBank(string bankCode)
