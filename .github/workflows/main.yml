@@ -18,7 +18,7 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
-    - name: Publish BankStats
+    - name: Publish BankFactory
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
           PROJECT_FILE_PATH: BankStats/BankStats/BankStats.csproj
