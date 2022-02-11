@@ -19,7 +19,6 @@
 	<ItemGroup>
 		<Content Include="bank.ico" Pack="true" PackagePath="\" />
 		<Content Include="bank.png" Pack="true" PackagePath="\" />
-		<Content Include="readme.md" Pack="true" PackagePath="\" />
 	</ItemGroup>
 
 </Project>
