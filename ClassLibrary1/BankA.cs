@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassLibraryNuget
-{   //Class A B C D E DO implementation on IBank interface
+{   //Class A B C D E implementation on IBank interface
     public class BankA:IBank
     {
         public string Withdraw()

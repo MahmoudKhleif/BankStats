@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassLibraryNuget
+
 {
     public interface IBankFactory
     {
