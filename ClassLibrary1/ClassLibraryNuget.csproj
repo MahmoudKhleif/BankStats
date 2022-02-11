@@ -14,6 +14,7 @@
 	  <RepositoryUrl>https://github.com/MahmoudKhleif/BankStats</RepositoryUrl>
 	  <PackageTags>Switch;method;</PackageTags>
 	  <ApplicationIcon>bank.ico</ApplicationIcon>
+	  <PackageId>SwitchMK</PackageId>
 	  <PackageIcon>bank.png</PackageIcon>
   </PropertyGroup>
 	<ItemGroup>
