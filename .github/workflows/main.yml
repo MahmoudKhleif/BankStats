@@ -21,6 +21,6 @@ jobs:
     - name: Publish BankFactory
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
-          PROJECT_FILE_PATH: BankStats/BankStats/BankStats.csproj
+          PROJECT_FILE_PATH: ClassLibrary1/ClassLibraryNuget.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
-          PACKAGE_NAME: MMPClassEnumerator
+          PACKAGE_NAME: BankFactory
