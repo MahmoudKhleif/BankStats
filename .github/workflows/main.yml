@@ -23,4 +23,4 @@ jobs:
       with:
           PROJECT_FILE_PATH: ClassLibrary1/ClassLibraryNuget.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
-          PACKAGE_NAME: BankFactoryMK
+          PACKAGE_NAME: SwitchMk
